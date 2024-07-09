@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samuright
+- 👋 Hi, I’m @ThinhNguyen
 - 👀 I’m interested in academic code
 - 🌱 I’m currently learning university
 - 💞️ I’m looking to collaborate on ...
